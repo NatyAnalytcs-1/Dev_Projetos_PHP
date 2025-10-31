@@ -9,11 +9,11 @@ switch ($url) {
         echo "página inicial";
         break;
 
-    case '/alunos':
+    case '/aluno':
         AlunoController::listar();  
         break;
 
-    case '/alunos/cadastro':
+    case '/aluno/cadastro':
         AlunoController::cadastro();    
         break;
     
