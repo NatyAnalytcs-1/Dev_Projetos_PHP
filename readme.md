@@ -27,5 +27,23 @@ A aplicação realiza o acesso ao banco de dados **somente através da Model e d
 
 ---
 
+````
+    Dev_Projetos_PHP/
+    └── Biblioteca/
+        ├── App/
+        │   ├── Controller/
+        │   ├── DAO/
+        │   ├── Model/
+        │   ├── View/
+        │   └── Modelagem/
+        ├── autoload.php
+        ├── config.php
+        ├── index.php
+        └── readme.md
+````
+
+
 ✍️ **Autor:** NatyAnalytics  
 📚 **Orientação:** Tiago A. Silva
+
+
